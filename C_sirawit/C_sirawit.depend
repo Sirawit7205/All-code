@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1412491910 source:d:\c_sirawit\1017.c
+	<stdio.h>
+
+1412499070 source:d:\c_sirawit\1028.c
+	<stdio.h>
+	<limits.h>
+
+1412500112 source:d:\c_sirawit\0007.c
+	<stdio.h>
+	<math.h>
+
+1412518506 source:h:\c_sirawit\0033.c
+	<stdio.h>
+
+1412564653 source:f:\c_sirawit\0032.c
+	<stdio.h>
+
+1412567280 source:f:\c_sirawit\0023.c
+	<stdio.h>
+
+1412579710 source:f:\c_sirawit\0022.c
+	<stdio.h>
+
+1412581885 source:f:\c_sirawit\0036.c
+	<stdio.h>
+
+1412693615 source:f:\c_sirawit\1016.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1412587366 source:h:\c_sirawit\1016.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1412754591 source:f:\c_sirawit\1086.c
+	<stdio.h>
+
+1412742288 source:f:\c_sirawit\6.c
+	<stdio.h>
+
+1412759917 source:f:\c_sirawit\1028.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1412844363 source:f:\c_sirawit\1067.c
+	<stdio.h>
+
+1412922516 source:f:\c_sirawit\0002.c
+	<stdio.h>
+	<limits.h>
+
+1412931477 source:c:\users\csitgis\desktop\test.c
+	<stdio.h>
+	<string.h>
+
+1412952470 source:h:\c_sirawit\expand.c
+	<stdio.h>
+	<string.h>
+

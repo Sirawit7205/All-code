@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1439778649 source:c:\users\lab242_000\desktop\new\detective.c
+	<stdio.h>
+	<string.h>
+
+1439780286 source:c:\users\lab242_000\desktop\new\palindrome.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1439780746 source:c:\users\lab242_000\desktop\new\triangle.c
+	<stdio.h>
+
+1439781209 source:c:\users\lab242_000\desktop\new\caesar.c
+	<stdio.h>
+	<string.h>
+
+1439781687 source:c:\users\lab242_000\desktop\new\pow.c
+	<stdio.h>
+
+1439786509 source:c:\users\lab242_000\desktop\new\perm.c
+	<stdio.h>
+

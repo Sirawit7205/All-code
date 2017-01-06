@@ -1,0 +1,7 @@
+x=[0:0.01:2];
+y=sinh(x);
+z=tanh(x);
+plot(x,y,x,z,'--')
+xlabel('x')
+ylabel('Hyperbolic Sine and Hyperbolic Tangent')
+legend('sinh(x)','tanh ')

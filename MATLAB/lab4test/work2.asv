@@ -1,0 +1,12 @@
+x=[1:10];
+y1=[1 -4 -6 -10 -7 1 10 15 18 22];
+y2=[0 2 4 12 16 6 10 2 -1 4];
+y3=[5 -3 -6 1 6 4 10 7 2 -1];
+plot(x,y1,'-Or','markeredgecolor','k')
+hold on
+plot(x,y2,'--*b','markeredgecolor','k')
+hold on
+plot(x,y3,'-.+g','markeredgecolor','k')
+title('X/Y Data')
+xlabel('x')
+ylabel()

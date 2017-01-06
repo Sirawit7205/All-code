@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1412750872 source:f:\c_sirawit\function\7.c
+	<stdio.h>
+
+1412751580 source:f:\c_sirawit\function\9.c
+	<stdio.h>
+
+1412752055 source:f:\c_sirawit\function\10.c
+	<stdio.h>
+
+1412789215 source:h:\c_sirawit\function\4.c
+	<stdio.h>
+
+1412790058 source:h:\c_sirawit\function\5.c
+	<stdio.h>
+
+1412830860 source:f:\c_sirawit\function\test.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1412834559 source:f:\c_sirawit\function\test2.c
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+clear;
+clc;
+a=input('Input a: ');
+b=input('input b: ');
+c=input('Input c: ');
+D=(b^2)-(4*a*c);

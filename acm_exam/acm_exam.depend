@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1412049411 source:d:\acm_code\acm_exam\g.c
+	<stdio.h>
+
+1412051771 source:d:\acm_code\acm_exam\a_new.c
+	<stdio.h>
+
+1412052593 source:d:\acm_code\acm_exam\c.c
+	<stdio.h>
+	<math.h>
+
+1412054085 source:d:\acm_code\acm_exam\f.c
+	<stdio.h>
+
+1412058951 source:d:\acm_code\acm_exam\d.c
+	<stdio.h>
+	<string.h>
+
+1412058557 source:d:\acm_code\acm_exam\e.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1412059282 source:d:\acm_code\acm_exam\dnew.c
+	<stdio.h>
+	<string.h>
+

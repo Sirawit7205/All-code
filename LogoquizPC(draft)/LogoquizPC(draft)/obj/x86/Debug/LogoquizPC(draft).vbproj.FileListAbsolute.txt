@@ -1,0 +1,17 @@
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\bin\Debug\LogoquizPC(draft).exe
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\bin\Debug\LogoquizPC(draft).pdb
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\bin\Debug\LogoquizPC(draft).xml
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form1.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form2.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Resources.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC(draft).exe
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC(draft).xml
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC(draft).pdb
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\bin\Debug\LogoquizPC(draft).exe.config
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form3.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form4.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form5.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form6.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC(draft).vbproj.GenerateResource.Cache
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form7.resources
+D:\visual Basic\LogoquizPC(draft)\LogoquizPC(draft)\obj\x86\Debug\LogoquizPC_draft_.Form8.resources

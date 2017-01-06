@@ -1,0 +1,13 @@
+y='(2^(0.8*x))*cos(3*x)';
+subplot(2,1,1)
+fplot(y,[-3,4],'r');
+xlabel('x')
+ylabel('y')
+title('fplot')
+x=[-3:0.1:4];
+y=(2.^(0.8.*x)).*cos(3.*x);
+subplot(2,1,2);
+plot(x,y,'g');
+xlabel('x')
+ylabel('y')
+title('plot')

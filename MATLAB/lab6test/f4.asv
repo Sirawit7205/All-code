@@ -1,0 +1,17 @@
+clear;
+clc;
+for t=-5:5
+if t>=0&&t<=10
+    
+elseif t>10&&t<=20
+    
+elseif t>20&&t<=30
+    
+elseif t>30
+    
+else
+    
+end
+plot(t,v,'--x')
+hold on
+end

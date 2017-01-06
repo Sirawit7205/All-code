@@ -1,0 +1,475 @@
+# depslib dependency file v1.0
+1429416642 source:f:\program\program_cpp\buy.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1429528701 source:i:\program\program_cpp\bch.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<climits>
+
+1429547774 source:f:\program\program_cpp\hat2.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1429597791 source:i:\program\program_cpp\topo.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<algorithm>
+
+1429599314 source:i:\program\program_cpp\sortnpermu.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<algorithm>
+
+1429727032 source:i:\program\program_cpp\hash.cpp
+	<iostream>
+	<cstdio>
+
+1429643428 source:i:\program\program_cpp\bch_2.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<climits>
+	<vector>
+
+1429677962 source:i:\program\program_cpp\t3.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<vector>
+
+1429686920 source:i:\program\program_cpp\saw.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1429729444 source:i:\program\program_cpp\town.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1429695537 source:i:\program\program_cpp\town_2.cpp
+	<iostream>
+	<cstdio>
+
+1429768197 source:i:\program\program_cpp\1082_2.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1429759685 source:i:\program\program_cpp\jump.cpp
+	<iostream>
+	<cstdio>
+
+1429779599 source:i:\program\program_cpp\jump_3.cpp
+	<iostream>
+	<cstdio>
+
+1429782935 source:i:\program\program_cpp\knapsack.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1429809218 source:f:\program\program_cpp\town.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1429814662 source:f:\program\program_cpp\knapsack.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1429844535 source:f:\program\program_cpp\seq.cpp
+	<iostream>
+	<cstdio>
+
+1429868259 source:f:\program\program_cpp\lis.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1429868329 source:g:\program\program_cpp\lis.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1429898430 source:g:\program\program_cpp\bridge_lis.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1429933221 source:f:\program\program_cpp\hacking.cpp
+	<iostream>
+	<cstdio>
+
+1429940287 source:f:\program\program_cpp\bonus.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+
+1429958723 source:f:\program\program_cpp\fenwick.cpp
+	<iostream>
+	<cstdio>
+
+1429979231 source:g:\program\program_cpp\fenwick.cpp
+	<iostream>
+	<cstdio>
+
+1430025366 source:f:\program\program_cpp\count.cpp
+	<iostream>
+	<cstdio>
+
+1430026819 source:f:\program\program_cpp\sleep.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1430040836 source:f:\program\program_cpp\chk_2.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1430044948 source:f:\program\program_cpp\bridge_lis.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1430071426 source:f:\program\program_cpp\ktry.cpp
+	<iostream>
+	<cstdio>
+
+1430101943 source:f:\program\program_cpp\light.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1430119935 source:f:\program\program_cpp\ele.cpp
+	<iostream>
+	<cstdio>
+
+1430122963 source:f:\program\program_cpp\ele_2.cpp
+	<iostream>
+	<cstdio>
+
+1430133406 source:f:\program\program_cpp\mk2.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
+1430151437 source:g:\program\program_cpp\ele_2.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1432311144 source:g:\program\program_cpp\walk.cpp
+	<iostream>
+	<cstdio>
+
+1430201044 source:g:\program\program_cpp\find.cpp
+	<iostream>
+	<cstdio>
+
+1430211813 source:f:\program\program_cpp\fence.cpp
+	<iostream>
+	<cstdio>
+
+1430217705 source:f:\program\program_cpp\walk.cpp
+	<iostream>
+	<cstdio>
+
+1430235645 source:f:\program\program_cpp\bee.cpp
+	<iostream>
+	<cstdio>
+
+1430308268 source:f:\program\program_cpp\pipe.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1430283479 source:f:\program\program_cpp\space.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1431016427 source:f:\program\program_cpp\water.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1431193632 source:f:\program\program_cpp\drosophlia.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1432193525 source:g:\program\program_cpp\bch_3.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<climits>
+
+1432197424 source:g:\program\program_cpp\bch_2.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<climits>
+	<vector>
+
+1432472492 source:g:\program\program_cpp\substring_heap.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<cstring>
+
+1432552014 source:f:\program\program_cpp\fnode_heap.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1432535442 source:f:\program\program_cpp\sewer.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1432559356 source:f:\program\program_cpp\exp_btup.cpp
+	<iostream>
+	<cstdio>
+
+1432578901 source:f:\program\program_cpp\iguana.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1432633576 source:f:\program\program_cpp\1088_iguana.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1432651948 source:f:\program\program_cpp\pairs_of_four.cpp
+	<iostream>
+	<cstdio>
+
+1432721322 source:f:\program\program_cpp\monkey_topdown.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1432720596 source:g:\toi_10_mky.cpp
+	<cstdio>
+	<algorithm>
+
+1432731929 source:f:\program\program_cpp\treasure.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1432749078 source:f:\program\program_cpp\raid_bf01.cpp
+	<iostream>
+	<cstdio>
+	<climits>
+	<queue>
+
+1432878126 source:f:\program\program_cpp\eoic35\6_yesnoseq.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1432878867 source:f:\program\program_cpp\eoic35\4_tableab.cpp
+	<iostream>
+	<cstdio>
+
+1432880811 source:f:\program\program_cpp\eoic35\3_artless.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1433810767 source:d:\program\toi11\cannon_2.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1434527917 source:d:\program\program_cpp\1061.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1462722440 source:f:\program\program_cpp\otog126.cpp
+	<cstdio>
+	<queue>
+	<cstdlib>
+
+1464332199 source:f:\program\program_cpp\otog212.cpp
+	<cstdio>
+
+1464334703 source:f:\program\program_cpp\otog211.cpp
+	<cstdio>
+
+1464340980 source:f:\program\program_cpp\otog210.cpp
+	<cstdio>
+
+1464351973 source:f:\program\program_cpp\overflow_chk.cpp
+	<cstdio>
+
+1464413332 source:f:\program\program_cpp\otog214.cpp
+	<cstdio>
+	<algorithm>
+
+1464427853 source:f:\program\program_cpp\cc124.cpp
+	<cstdio>
+	<queue>
+
+1464437267 source:f:\program\program_cpp\cc119.cpp
+	<cstdio>
+
+1464440535 source:f:\program\program_cpp\cc121.cpp
+	<cstdio>
+	<algorithm>
+
+1464444908 source:f:\program\program_cpp\cc119_2.cpp
+	<cstdio>
+	<queue>
+
+1464507304 source:f:\program\program_cpp\otog255.cpp
+	<cstdio>
+	<vector>
+	<queue>
+
+1464508692 source:f:\program\program_cpp\otog78.cpp
+	<cstdio>
+	<vector>
+
+1464512579 source:f:\program\program_cpp\otog100.cpp
+	<cstdio>
+
+1464514113 source:f:\program\program_cpp\otog261.cpp
+	<cstdio>
+	<climits>
+
+1464756733 source:f:\program\program_cpp\otog259.cpp
+	<cstdio>
+
+1464584376 source:f:\program\program_cpp\otog16.cpp
+	<cstdio>
+
+1464592338 source:f:\program\program_cpp\otog326.cpp
+	<cstdio>
+	<queue>
+
+1464600308 source:f:\program\program_cpp\otog327.cpp
+	<cstdio>
+	<climits>
+
+1464137089 source:f:\program\program_cpp\otog330.cpp
+	<cstdio>
+	<vector>
+	<algorithm>
+
+1465122939 source:f:\program\program_cpp\otog351.cpp
+	<cstdio>
+	<cmath>
+
+1464636710 source:f:\program\program_cpp\otog80.cpp
+	<cstdio>
+	<queue>
+
+1464670644 source:f:\program\program_cpp\otog343.cpp
+	<cstdio>
+	<algorithm>
+	<cstdlib>
+
+1464673829 source:f:\program\program_cpp\otog86.cpp
+	<cstdio>
+
+1464677024 source:f:\program\program_cpp\otog268.cpp
+	<cstdio>
+
+1464685281 source:f:\program\program_cpp\otog270.cpp
+	<cstdio>
+	<vector>
+	<algorithm>
+
+1464704667 source:f:\program\program_cpp\otog44.cpp
+	<cstdio>
+	<algorithm>
+
+1464718065 source:f:\program\program_cpp\otog73.cpp
+	<cstdio>
+	<algorithm>
+
+1464765946 source:f:\program\program_cpp\otog277.cpp
+	<cstdio>
+	<algorithm>
+
+1464769535 source:f:\program\program_cpp\otog278.cpp
+	<cstdio>
+	<queue>
+
+1464800362 source:f:\program\program_cpp\otog325.cpp
+	<cstdio>
+
+1464848982 source:f:\program\program_cpp\eoic39\1.cpp
+	<cstdio>
+
+1464847973 source:f:\program\program_cpp\eoic39\3.cpp
+	<cstdio>
+	<cstring>
+
+1464842527 source:f:\program\program_cpp\eoic39\5.cpp
+	<cstdio>
+
+1464850931 source:f:\program\program_cpp\eoic39\2.cpp
+	<cstdio>
+	<cmath>
+
+1464857535 source:f:\program\program_cpp\eoic39\6_brf.cpp
+	<cstdio>
+	<cstring>
+
+1464943863 source:f:\program\program_cpp\otog71.cpp
+	<cstdio>
+
+1464951216 source:f:\program\program_cpp\otog68.cpp
+	<cstdio>
+
+1465037480 source:f:\program\program_cpp\otog88.cpp
+	<cstdio>
+	<algorithm>
+	<cmath>
+
+1465033945 source:f:\program\program_cpp\otog92.cpp
+	<cstdio>
+	<queue>
+
+1465042467 source:f:\program\program_cpp\otog32.cpp
+	<cstdio>
+	<algorithm>
+	<cstdlib>
+
+1465121520 source:f:\program\program_cpp\otog52.cpp
+	<cstdio>
+
+1465234976 source:h:\program\program_cpp\otog83.cpp
+	<cstdio>
+	<queue>
+	<cstring>
+
+1478711452 source:f:\program\program_cpp\otog399.cpp
+	<cstdio>
+
+1478715083 source:f:\program\program_cpp\otog402.cpp
+	<cstdio>
+
+1478799970 source:f:\program\program_cpp\otog401.cpp
+	<cstdio>
+	<cstring>
+
+1479230310 source:f:\program\program_cpp\otog392.cpp
+	<cstdio>
+	<queue>
+

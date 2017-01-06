@@ -1,0 +1,314 @@
+List of logo:
+0:Wikipedia
+1:cbs
+2:abc
+3:lucky strike
+4:underground
+5:vodafone
+6:air canada
+7:target
+8:texaco
+9:virgin
+10:alfa romeo
+11:at&t
+12:volkswagen
+13:ge
+14:bmw
+15:firefox
+16:palm
+17:sony erricson
+18:starbucks
+19:yamaha
+20:lg
+21:total
+22:ubuntu
+23:bayer
+24:xerox
+25:pepsi
+26:bacardi
+27:nissan
+28:motorola
+29:mercedes benz
+30:coca cola
+31:nike
+32:apple
+33:google
+34:lego
+35:windows
+36:nintendo
+37:movistar
+38:shell
+39:walmart
+40:adidas
+41:harrods
+42:wwf
+43:oxo
+44:lacoste
+45:i love ny
+46:twitter
+47:kellogs
+48:bing
+49:adobe
+50:amd
+51:facebook
+52:cisco
+53:ebay
+54:ea
+55:fijitsu
+56:hp
+57:intel
+58:hitachi
+59:nvidia
+60:oracle
+61:sandisk
+62:logitech
+63:mcafee
+64:symantec
+65:sun
+66:yahoo
+67:microsoft
+68:next
+69:atari
+70:netflix
+71:asus
+72:netscape
+73:opera
+74:paypal
+75:sap
+76:sony
+77:verisign
+78:vmware
+79:chanel
+80:dior
+81:hermes
+82:burberry
+83:versace
+84:louis vuitton
+85:dolce&gabbana
+86:yves saint laurent
+87:armani
+88:gucci
+89:ascis
+90:prince
+91:casio
+92:new balance
+93:volvo
+94:mitsubishi
+95:susuki
+96:toyota
+97:saab
+98:acura
+99:audi
+100:mazda
+101:lee
+102:gap
+103:old navy
+104:the north face
+105:tommy hilfiger
+106:wrangler
+107:abercrombie&fitch
+108:bbc
+109:tesco
+110:colgate
+111:boots
+112:p&g
+113:heinz
+114:sainsbury's
+115:burger king
+116:carrefour
+117:converse
+118:lexus
+119:kfc
+120:myspace
+121:opel
+122:spotify
+123:skoda
+124:mtv
+125:tissot
+126:ford
+127:playboy
+128:mastercard
+129:malibu
+130:bosch
+131:orange
+132:safari
+133:electrolux
+134:dove
+135:bic
+136:cnn
+137:kenwood
+138:icq
+139:nascar
+140:western digital
+141:mattel
+142:fujifilm
+143:kraft
+144:playstation
+145:ikea
+146:hsbc
+147:gillette
+148:ups
+149:accenture
+
+Randomized List:
+
+bosch
+lacoste
+next
+icq
+bic
+yamaha
+netflix
+chanel
+google
+harrods
+texaco
+accenture
+starbucks
+windows
+mercedes benz
+carrefour
+mattel
+bayer
+facebook
+pepsi
+asus
+hermes
+converse
+air canada
+walmart
+western digital
+lexus
+i love ny
+ubuntu
+bacardi
+
+oracle
+mcafee
+xerox
+hitachi
+kellogs
+dolce&gabbana
+lego
+fujifilm
+abc
+mtv
+versace
+twitter
+total
+microsoft
+ge
+mitsubishi
+saab
+asics
+underground
+cnn
+nascar
+bing
+p&g
+suzuki
+sun
+nike
+orange
+myspace
+burberry
+volvo
+
+lg
+virgin
+Wikipedia
+firefox
+ikea
+verisign
+acura
+ebay
+atari
+gillette
+sony ericsson
+gap
+prince
+shell
+adobe
+movistar
+logitech
+toyota
+target
+gucci
+sandisk
+bmw
+mastercard
+nissan
+vodafone
+spotify
+cisco
+ea
+netscape
+burger king
+
+playboy
+dior
+lucky strike
+casio
+mazda
+sony
+yves saint laurent
+alfa romeo
+ford
+sap
+opel
+sainsbury's
+skoda
+nintendo
+giorgio armani
+oxo
+safari
+tissot
+ups
+opera
+kraft
+vmware
+electrolux
+hp
+heinz
+wrangler
+fijitsu
+amd
+the north face
+louis vuitton
+
+wwf
+tesco
+tommy hilfiger
+malibu
+colgate
+nvidia
+volkswagen
+abercrombie&fitch
+apple
+kfc
+kenwood
+paypal
+cbs
+audi
+playstation
+boots
+intel
+lee
+palm
+coca cola
+new balance
+symantec
+old navy
+bbc
+adidas
+at&t
+hsbc
+yahoo
+dove
+motorola
+
+
+
+
+
+

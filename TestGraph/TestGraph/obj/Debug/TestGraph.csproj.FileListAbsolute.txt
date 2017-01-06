@@ -1,0 +1,12 @@
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\TestGraph.csprojResolveAssemblyReference.cache
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\TestGraph.Form1.resources
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\TestGraph.Properties.Resources.resources
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\TestGraph.csproj.GenerateResource.Cache
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\TestGraph.Form2.resources
+D:\visual Basic\TestGraph\TestGraph\bin\Debug\Real time monitor.exe.config
+D:\visual Basic\TestGraph\TestGraph\bin\Debug\Real time monitor.exe
+D:\visual Basic\TestGraph\TestGraph\bin\Debug\Real time monitor.pdb
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\Real time monitor.exe
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\Real time monitor.pdb
+D:\visual Basic\TestGraph\TestGraph\bin\Debug\System.Net.Http.dll
+D:\visual Basic\TestGraph\TestGraph\obj\Debug\TestGraph.Form3.resources

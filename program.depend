@@ -1,0 +1,616 @@
+# depslib dependency file v1.0
+1394598340 source:g:\program\queue1.c
+	<stdio.h>
+
+1394616686 source:g:\program\postfix.c
+	<stdio.h>
+	<string.h>
+
+1394680926 source:g:\program\catn_str.c
+	<stdio.h>
+
+1394682020 source:g:\program\cmp_str.c
+	<stdio.h>
+
+1394684444 source:g:\program\count_word.c
+	<stdio.h>
+
+1394686224 source:g:\program\checkvowels.c
+	<stdio.h>
+
+1394692352 source:g:\program\replace_word.c
+	<stdio.h>
+
+1394695532 source:g:\program\name_convert.c
+	<stdio.h>
+
+1394696624 source:g:\program\reverse_string.c
+	<stdio.h>
+
+1394697640 source:g:\program\palindrome_1.c
+	<stdio.h>
+
+1394772838 source:g:\program\1059.c
+	<stdio.h>
+
+1394779462 source:g:\program\strtoint.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1394780658 source:g:\program\test.c
+	<stdio.h>
+
+1394788028 source:g:\program\recursive_replace.c
+	<stdio.h>
+	<math.h>
+
+1394810076 source:h:\program\permutaion_bounds.c
+	<stdio.h>
+
+1394810076 source:g:\program\permutaion_bounds.c
+	<stdio.h>
+
+1394856922 source:g:\program\recursive_group.c
+	<stdio.h>
+	<string.h>
+
+1394859606 source:g:\program\recursive_group2.c
+	<stdio.h>
+	<string.h>
+
+1394871860 source:g:\program\recursive_bomb.c
+	<stdio.h>
+
+1395025496 source:g:\program\recursive_gcd.c
+	<stdio.h>
+	<math.h>
+
+1395030118 source:g:\program\romantodecimal.c
+	<stdio.h>
+	<string.h>
+
+1395042466 source:g:\program\strsort.c
+	<stdio.h>
+	<string.h>
+
+1395044712 source:g:\program\palindromeinrange.c
+	<stdio.h>
+	<string.h>
+
+1395047478 source:g:\program\primesuminrange.c
+	<stdio.h>
+
+1395124918 source:g:\program\twoelements.c
+	<stdio.h>
+	<math.h>
+
+1395111240 source:g:\program\findmissing.c
+	<stdio.h>
+
+1395128892 source:g:\program\queue2.c
+	<stdio.h>
+
+1395132416 source:g:\program\stack.c
+	<stdio.h>
+
+1395134954 source:g:\program\binaryadder.c
+	<stdio.h>
+	<string.h>
+
+1395197176 source:g:\program\hotel.c
+	<stdio.h>
+
+1395199358 source:g:\program\prime_bruteforce.c
+	<stdio.h>
+
+1395289996 source:g:\program\jump_bruteforce.c
+	<stdio.h>
+
+1395307138 source:g:\program\merge_sort.c
+	<stdio.h>
+
+1395371238 source:g:\program\new.c
+	<stdio.h>
+
+1395378748 source:g:\program\swordartonline.c
+	<stdio.h>
+
+1395392756 source:g:\program\1018.c
+	<stdio.h>
+
+1395458848 source:g:\program\a.c
+	<stdio.h>
+	<string.h>
+
+1395463562 source:g:\program\b.c
+	<stdio.h>
+	<math.h>
+
+1395471002 source:g:\program\d.c
+	<stdio.h>
+	<string.h>
+
+1395485220 source:g:\program\otog1.c
+	<stdio.h>
+
+1395490664 source:g:\program\otog2.c
+	<stdio.h>
+
+1402848407 source:c:\users\asus\desktop\untitled1.c
+	<stdio.h>
+	<conio.h>
+
+1410191698 source:f:\program\debug.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1425704410 source:f:\program\minmax2.c
+	<stdio.h>
+
+1425718198 source:f:\program\binarysearch.c
+	<stdio.h>
+
+1425784561 source:f:\program\binarysearch_recursive.c
+	<stdio.h>
+
+1425798302 source:f:\program\example_dijkstra.c
+	<stdio.h>
+
+1425840756 source:i:\program\floyd_warshall.c
+	<stdio.h>
+
+1425874981 source:f:\program\1009.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1425894730 source:f:\program\floyd_warshall.c
+	<stdio.h>
+
+1425976529 source:f:\program\0018.c
+	<stdio.h>
+
+1426004775 source:f:\program\1021.c
+	<stdio.h>
+
+1426061807 source:f:\program\1069.c
+	<stdio.h>
+
+1426098104 source:f:\program\fighter.c
+	<stdio.h>
+
+1426136496 source:f:\program\drone.c
+	<stdio.h>
+
+1426147600 source:f:\program\drosophila.c
+	<stdio.h>
+	<string.h>
+
+1426151712 source:f:\program\antfib.c
+	<stdio.h>
+
+1426186289 source:i:\program\antfib.c
+	<stdio.h>
+
+1426238913 source:f:\program\find.c
+	<stdio.h>
+
+1426267667 source:f:\program\abnormal_sine.c
+	<stdio.h>
+
+1426306196 source:f:\program\find2.c
+	<stdio.h>
+	<limits.h>
+
+1426307662 source:f:\program\find3.c
+	<stdio.h>
+	<limits.h>
+
+1426316465 source:f:\program\cellular_automata.c
+	<stdio.h>
+
+1426324055 source:f:\program\fact_count.c
+	<stdio.h>
+
+1426435820 source:f:\program\1027.c
+	<stdio.h>
+	<string.h>
+
+1426445586 source:f:\program\love_key_decoder.c
+	<stdio.h>
+	<string.h>
+
+1426476257 source:f:\program\hotel_new.c
+	<stdio.h>
+
+1426479667 source:i:\program\prime_bruteforce.c
+	<stdio.h>
+
+1426487619 source:i:\program\love_key_decoder.c
+	<stdio.h>
+	<string.h>
+
+1426495122 source:i:\program\permu_test.c
+	<stdio.h>
+
+1426495122 source:f:\program\permu_test.c
+	<stdio.h>
+
+1426519915 source:f:\program\panan_qword_test.c
+	<stdio.h>
+
+1426567851 source:f:\program\merge_sort_2.c
+	<stdio.h>
+
+1426581128 source:f:\program\number_sub_wheel.c
+	<stdio.h>
+	<string.h>
+
+1426607872 source:i:\program\kraken.c
+	<stdio.h>
+
+1425976529 source:i:\program\0018.c
+	<stdio.h>
+
+1426662299 source:d:\program\kraken.c
+	<stdio.h>
+
+1426609430 source:f:\program\kraken.c
+	<stdio.h>
+
+1426654440 source:f:\program\helicopter.c
+	<stdio.h>
+
+1426618693 source:f:\program\pow_math.c
+	<stdio.h>
+	<math.h>
+
+1426655938 source:f:\program\chocolate.c
+	<stdio.h>
+
+1426665285 source:f:\program\314.c
+	<stdio.h>
+
+1426672349 source:f:\program\312.c
+	<stdio.h>
+
+1426740188 source:f:\program\1121.c
+	<stdio.h>
+
+1426755365 source:f:\program\q1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1426769676 source:i:\program\q2.c
+	<stdio.h>
+
+1426782167 source:i:\program\q4.c
+	<stdio.h>
+
+1426842222 source:i:\program\bfs.c
+	<stdio.h>
+	<conio.h>
+
+1426835429 source:i:\program\location.c
+	<stdio.h>
+
+1427298108 source:f:\program\0038.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1428086825 source:i:\program\0025.c
+	<stdio.h>
+	<string.h>
+
+1428571267 source:f:\program\sonic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1428581177 source:f:\program\vamprime.c
+	<stdio.h>
+
+1428594328 source:f:\program\vamprime_v2.c
+	<stdio.h>
+
+1428603311 source:f:\program\binflip_decode.c
+	<stdio.h>
+	<string.h>
+
+1428686358 source:i:\program\poring.c
+	<stdio.h>
+
+1428691855 source:i:\program\inception.c
+	<stdio.h>
+	<math.h>
+
+1428765670 source:f:\program\sleep.c
+	<stdio.h>
+	<string.h>
+
+1428768516 source:f:\program\cseq.c
+	<stdio.h>
+
+1428768516 source:i:\program\cseq.c
+	<stdio.h>
+
+1428824593 source:i:\program\1088.c
+	<stdio.h>
+
+1429333149 source:i:\program\1021_2.c
+	<stdio.h>
+
+1429345201 source:i:\program\0012.c
+	<stdio.h>
+
+1429462870 source:f:\program\code_ex.c
+	<stdio.h>
+	<stdlib.h>
+
+1429501821 source:i:\program\select.c
+	<stdio.h>
+
+1429506031 source:i:\program\sell.c
+	<stdio.h>
+	<stdlib.h>
+
+1424357233 source:f:\program\codepage 874 cipher tool.c
+	<stdio.h>
+	<wchar.h>
+	<time.h>
+
+1430126648 source:i:\program\codepage 874 cipher tool.c
+	<stdio.h>
+	<wchar.h>
+	<time.h>
+
+1430374438 source:f:\program\color.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1430665458 source:i:\program\0028.c
+	<stdio.h>
+	<stdlib.h>
+
+1430844263 source:i:\program\permu.c
+	<stdio.h>
+	<string.h>
+
+1429463469 source:i:\program\permu_ex.c
+	<stdio.h>
+	<stdlib.h>
+
+1430929871 source:i:\program\clock.c
+	<stdio.h>
+
+1431278686 source:f:\program\hack.c
+	<stdio.h>
+	<string.h>
+
+1431330913 source:f:\program\virus.c
+	<stdio.h>
+	<stdlib.h>
+
+1431333955 source:f:\program\repeat.c
+	<stdio.h>
+	<string.h>
+
+1431347368 source:f:\program\ssh.c
+	<stdio.h>
+
+1431517141 source:f:\program\sandglass.c
+	<stdio.h>
+
+1431526610 source:f:\program\please_count2.c
+	<stdio.h>
+
+1431534130 source:f:\program\wall.c
+	<stdio.h>
+
+1431532112 source:f:\program\gcd.c
+	<stdio.h>
+
+1431534702 source:f:\program\bus.c
+	<stdio.h>
+
+1431699218 source:f:\program\seq.c
+	<stdio.h>
+
+1431699703 source:f:\program\join.c
+	<stdio.h>
+
+1432143531 source:f:\program\mango.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1432146126 source:f:\program\tower.c
+	<stdio.h>
+
+1432282604 source:g:\program\diamond.c
+	<stdio.h>
+
+1432286404 source:g:\program\wordchange.c
+	<stdio.h>
+	<string.h>
+
+1432376883 source:g:\program\promotion.c
+	<stdio.h>
+
+1432388505 source:f:\program\platinum.c
+	<stdio.h>
+
+1429463469 source:f:\program\permu_ex.c
+	<stdio.h>
+	<stdlib.h>
+
+1432392739 source:f:\program\platinum_bf.c
+	<stdio.h>
+
+1432406369 source:g:\program\kmp_ctrlf2.c
+	<stdio.h>
+
+1432442620 source:g:\program\binlemon_catalan.c
+	<stdio.h>
+	<math.h>
+
+1432449104 source:g:\program\square.c
+	<stdio.h>
+
+1432450396 source:g:\program\comm.c
+	<stdio.h>
+	<limits.h>
+
+1432453982 source:g:\program\substring_bf.c
+	<stdio.h>
+	<string.h>
+
+1432466387 source:g:\program\ro.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1432484688 source:g:\program\seq.c
+	<stdio.h>
+
+1457836670 source:f:\program\1001.c
+	<stdio.h>
+
+1457837511 source:f:\program\1007.c
+	<stdio.h>
+
+1457846306 source:f:\program\program_cpp\1030.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1457851537 source:f:\program\paperfold.c
+	<stdio.h>
+	<math.h>
+
+1457854959 source:f:\program\binsearch.c
+	<stdio.h>
+	<stdlib.h>
+
+1457859264 source:f:\program\tug.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1457942199 source:f:\program\1033.c
+	<stdio.h>
+
+1458065783 source:f:\program\box.c
+	<stdio.h>
+
+1458190225 source:f:\program\pocky.c
+	<stdio.h>
+	<stdlib.h>
+
+1458123445 source:f:\program\str.c
+	<stdio.h>
+
+1458181608 source:f:\program\program_cpp\fruit_ext.cpp
+	<iostream>
+	<cstdio>
+	<stack>
+
+1458195440 source:f:\program\lfdtest.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1458197002 source:f:\program\sleep_2.c
+	<stdio.h>
+
+1458212974 source:f:\program\helicopter_2.c
+	<stdio.h>
+
+1458203417 source:f:\program\program_cpp\water_bf.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1458206488 source:f:\program\vamprime_v3.c
+	<stdio.h>
+
+1458210510 source:f:\program\wifi.c
+	<stdio.h>
+
+1458232865 source:f:\program\landprice.c
+	<stdio.h>
+
+1458274762 source:f:\program\pocky_2.c
+	<stdio.h>
+	<stdlib.h>
+
+1458297037 source:f:\program\program_cpp\hot.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1460379263 source:f:\program\1004.c
+	<stdio.h>
+
+1461351353 source:f:\program\1011.c
+	<stdio.h>
+
+1462294217 source:f:\program\1019.c
+	<stdio.h>
+	<string.h>
+
+1462298622 source:f:\program\1063.c
+	<stdio.h>
+
+1462375126 source:f:\program\otog62.c
+	<stdio.h>
+
+1462373236 source:f:\program\otog62_bf.c
+	<stdio.h>
+
+1462376944 source:f:\program\otog14.c
+	<stdio.h>
+
+1462464419 source:f:\program\otog339.c
+	<stdio.h>
+
+1462557777 source:f:\program\otog338.c
+	<stdio.h>
+
+1462894244 source:f:\program\otog24.c
+	<stdio.h>
+
+1462982433 source:f:\program\otog122.c
+	<stdio.h>
+
+1463650490 source:f:\program\ubu\2016\prob3.c
+	<stdio.h>
+	<stdlib.h>
+
+1463321499 source:f:\program\otog347.c
+	<stdio.h>
+
+1463820173 source:f:\program\otog313.c
+	<stdio.h>
+
+1464358563 source:f:\program\otog348.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1464371143 source:f:\program\otog348_2.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1464505164 source:f:\program\program_cpp\otog254.cpp
+	<cstdio>
+	<cmath>
+

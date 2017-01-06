@@ -1,0 +1,21 @@
+clear;
+clc;
+a=input('Input coefficient a: ');
+b=input('Input coefficient b: ');
+c=input('Input coefficient c: ');
+%find discriminant of the equation%
+D=(b^2)-(4*a*c);
+if D<0
+    disp('The equation have no real root.');
+elseif D==0
+    disp('The euqation have one real root.');
+    ans1=(-b+sqrt(D))/2;
+    disp('Root is'ans1);
+else
+    disp('The equation have two real root.');
+    ans1=(-b+sqrt(D))/2;
+    ans2=(-b-sqrt(D))/2;
+    disp(ans1); disp(ans2);
+end
+
+
