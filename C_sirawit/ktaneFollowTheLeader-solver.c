@@ -6,9 +6,9 @@ char queryCol[5]={};
 
 int main()
 {
-	int i=0,wires,battCnt,startWire,isReverse,curSNNum,curWire,prevWire,temp=0,resCnt=0;
+	int i=0,wires,battCnt,startWire,isReverse,firstSNNum,curWire,prevWire,temp=0,resCnt=0;
 	int rawCon[20]={},wiresLink[20]={},result[20]={},wiresList[20]={};
-	char litCLR,hasRJ,curSNChar;
+	char litCLR,hasRJ,curSNChar,firstSNChar;
 	char serialNo[10]={},colorSeq[20]={};
 
 	printf("KTaNE Follow The Leader solver [v1.0]\nCreated by SL7205.\n");
@@ -23,12 +23,12 @@ int main()
 
 	//find S/N first char/num;
 	do{
-		curSNChar = serialNo[i];
+		firstSNChar = serialNo[i];
 		i++;
 	}while(serialNo[i-1]>='0'&&serialNo[i-1]<='9');
 	i=0;
 	do{
-		curSNNum = serialNo[i] - '0';
+		firstSNNum = serialNo[i] - '0';
 		i++;
 	}while(serialNo[i-1]>='A'&&serialNo[i-1]<='Z');
 
@@ -36,21 +36,24 @@ int main()
 	{
 		//init blank
 		for(i=1;i<=12;i++)
-			wiresLink[i]=-1;
+        {
+            wiresLink[i]=-1;
+            wiresList[i]=-1;
+        }
 		resCnt=1;
+		wires=1;
+		curSNChar=firstSNChar;
 
 		//input route/color
-		printf("Enter amount of wires: ");
-		scanf("%d",&wires);
 		printf("Enter connection route and color, from lowest:\n");
-		for(i=1;i<=wires;i++)
-		{
-			printf("No. %d: ",i);
-			scanf("%d %c",&rawCon[i],&colorSeq[i]);
-		}
+		do{
+			printf("No. %d: ",wires);
+			scanf("%d%c",&rawCon[wires],&colorSeq[wires]);
+			wires++;
+		}while(rawCon[1]!=rawCon[wires-1]||wires==2);
+		wires-=2;
 
 		//make wires link
-		rawCon[wires+1]=rawCon[1];
 		for(i=1;i<=wires;i++)
 		{
 			wiresLink[i]=rawCon[i+1];
@@ -63,8 +66,8 @@ int main()
 			startWire = 4;
 		else if(wiresList[battCnt] != -1)
 			startWire = battCnt;
-		else if(wiresList[curSNNum] != -1)
-			startWire = curSNNum;
+		else if(wiresList[firstSNNum] != -1)
+			startWire = firstSNNum;
 		else if(litCLR == 'T')
 		{
 			printf("\nCut all from highest.\n");
@@ -77,16 +80,22 @@ int main()
 		for(i=1;i<=wires;i++)
 		{
 			if(rawCon[i] == startWire)
+			{
 				curWire = i;
+				break;
+			}
 		}
 
 		//reverse
 		if(colorSeq[curWire] == 'R' || colorSeq[curWire] == 'G' || colorSeq[curWire] == 'W')
 			isReverse = 1;
+        else isReverse = 0;
 
 		//first wire is always cut
 		result[0]=rawCon[curWire];
 		curWire++;
+		if(curWire>wires)
+            curWire=1;
 
 		//rules checking
 		for(i=1;i<wires;i++)
@@ -123,7 +132,7 @@ int main()
 			else if(curSNChar=='D'||curSNChar=='Q')
 			{
 				prevWire=prevWireFunc(curWire,wires);
-				if(colorSeq[prevWire]=='R'&&colorSeq[prevWire]=='B'&&colorSeq[prevWire]=='K')
+				if(colorSeq[prevWire]=='R'||colorSeq[prevWire]=='B'||colorSeq[prevWire]=='K')
 				{
 					result[resCnt]=rawCon[curWire];
 					resCnt++;
@@ -165,7 +174,7 @@ int main()
 			else if(curSNChar=='G'||curSNChar=='T')
 			{
 				prevWire=prevWireFunc(curWire,wires);
-				if(colorSeq[prevWire]=='Y'&&colorSeq[prevWire]=='W'&&colorSeq[prevWire]=='G')
+				if(colorSeq[prevWire]=='Y'||colorSeq[prevWire]=='W'||colorSeq[prevWire]=='G')
 				{
 					result[resCnt]=rawCon[curWire];
 					resCnt++;
@@ -183,7 +192,7 @@ int main()
 			else if(curSNChar=='I'||curSNChar=='V')
 			{
 				prevWire=prevWireFunc(curWire,wires);
-				if(wiresLink[prevWire]-rawCon[prevWire]!=1)
+				if(wiresLink[prevWire]-rawCon[prevWire]!=1&&wiresLink[prevWire]-rawCon[prevWire]!=-11)
 				{
 					result[resCnt]=rawCon[curWire];
 					resCnt++;
@@ -223,7 +232,7 @@ int main()
 					temp++;
 				if(queryCol[2]=='K'||queryCol[2]=='W')
 					temp++;
-				if(temp==1)
+				if(temp<=1)
 				{
 					result[resCnt]=rawCon[curWire];
 					resCnt++;
@@ -249,7 +258,7 @@ int main()
 		}
 
 		//result
-		printf("Cut: ");
+		printf("Cut in order: ");
 		for(i=0;i<resCnt;i++)
 			printf("%d ",result[i]);
 		printf("\n\n");
