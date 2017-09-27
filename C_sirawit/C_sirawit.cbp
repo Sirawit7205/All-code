@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="ktaneFollowTheLeader-solver.c">
+		<Unit filename="assign5_edit.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
