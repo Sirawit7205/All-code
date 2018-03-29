@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="assign5_edit.c">
+		<Unit filename="assign5.2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
